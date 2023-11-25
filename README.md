@@ -56,9 +56,8 @@
     <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket%20-%23F05033.svg?logo=Bitbucket&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira%20-%23F05033.svg?logo=Jira&logoColor=white"></a>
-    <a href="#"><img alt="Teamcity" src="https://img.shields.io/badge/Teamcity%20-%008678.svg?logo=Teamcity&logoColor=white"></a> 
+    <a href="#"><img alt="Teamcity" src="https://img.shields.io/badge/Teamcity-008678?logo=Teamcity&logoColor=white"></a>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%3DDC84.svg?logo=Adobe&logoColor=white"></a>
-<!--     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%000000.svg?logo=git&logoColor=white"></a> -->
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-000000?logo=Git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-2391E6?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
