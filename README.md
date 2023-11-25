@@ -53,10 +53,11 @@
 </p>
 <h3 align="left">Software and tools</h3>
 <p>
-    <a href="#"><img alt="bitbucket" src="https://img.shields.io/badge/bitbucket%20-%23F05033.svg?logo=bitbucket&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="jira" src="https://img.shields.io/badge/jira%20-%23F05033.svg?logo=jira&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket%20-%23F05033.svg?logo=Bitbucket&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira%20-%23F05033.svg?logo=Jira&logoColor=white"></a>
+    <a href="#"><img alt="Teamcity" src="https://img.shields.io/badge/Teamcity%20-%23F05033.svg?logo=Teamcity&logoColor=white"></a> 
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23F05033.svg?logo=Adobe&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
