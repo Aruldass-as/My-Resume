@@ -56,17 +56,17 @@
     <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket%20-%23F05033.svg?logo=Bitbucket&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira%20-%23F05033.svg?logo=Jira&logoColor=white"></a>
-    <a href="#"><img alt="Teamcity" src="https://img.shields.io/badge/Teamcity%20-%23F05033.svg?logo=Teamcity&logoColor=white"></a> 
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23F05033.svg?logo=Adobe&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Teamcity" src="https://img.shields.io/badge/Teamcity%20-%008678.svg?logo=Teamcity&logoColor=white"></a> 
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%3DDC84.svg?logo=Adobe&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%000000.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-2391E6?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
    
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%2320232a.svg?logo=figma&logoColor=white"></a>
+<!-- <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%2320232a.svg?logo=figma&logoColor=white"></a>
      <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
      <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
      <img alt="Docker" src="https://img.shields.io/badge/Docker-2391E6.svg?logo=docker&logoColor=white"></img> 
-     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-006400.svg?logo=pycharm&logoColor=white"></a> 
+     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-006400.svg?logo=pycharm&logoColor=white"></a> -->
 </p>
