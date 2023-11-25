@@ -2,9 +2,9 @@
 
 <h3 align="left">Frontend Stack</h3>
 <p>
-   <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=angular&logoColor=red"></img>
+   <img alt="angular" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=angular&logoColor=red"></img>
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></img>
    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></img>
-   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></img>
 <!--    <img alt="Gatsby.js" src="https://img.shields.io/badge/Gatsby.js%20-7026BA.svg?logo=gatsby&logoColor=white"></img> -->
 <!--    <img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%23404d59.svg?logo=react&logoColor=white"></img> -->
    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></img>
